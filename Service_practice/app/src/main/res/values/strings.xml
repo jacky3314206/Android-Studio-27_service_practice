@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Service_parctice</string>
+    <string name="title">播放音樂</string>
+    <string name="start">Play Music</string>
+    <string name="stop">Stop Music</string>
+</resources>
